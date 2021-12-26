@@ -1,4 +1,4 @@
-package com.advanced.app.trace;
+package com.advanced.trace;
 
 import lombok.Getter;
 
