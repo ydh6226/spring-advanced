@@ -1,7 +1,6 @@
-package com.advanced.app.v3.v2;
+package com.advanced.app.v3;
 
 import com.advanced.trace.TraceStatus;
-import com.advanced.trace.hellotrace.HelloTraceV2;
 import com.advanced.trace.logtrace.LogTrace;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
